@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Hotel de Fantasia é a elaboração de um sistema funcional de reserva num hotel fictício.
+Ao acessar o site, insira um nome de usuário da sua escolha e digite a senha: 1234. :D
 
 - [Visite o projeto online aqui](https://andrvss.github.io/Hotel-de-Fantasia/)
 
