@@ -30,9 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um aplicativo para ajudar a rastrear os hábitos.
+O Hotel de Fantasia é a elaboração de um sistema funcional de reserva num hotel fictício.
 
-- [Visite o projeto online aqui](https://andrvss.github.io/Hotel-Fantasia/)
+- [Visite o projeto online aqui](https://andrvss.github.io/Hotel-de-Fantasia/)
 
 
 ## :memo: Licença
